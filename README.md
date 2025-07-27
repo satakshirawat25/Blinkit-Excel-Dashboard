@@ -29,7 +29,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ## 🖼️ Dashboard Preview
 
-![Blinkit Dashboard](Blinkit Dasboard.png)
+(Blinkit Dasboard.png)
 
 ---
 ## Features and Visuals
